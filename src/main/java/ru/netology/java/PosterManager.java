@@ -1,6 +1,5 @@
 package ru.netology.java;
 
-
 public class PosterManager {
 
     private String[] films = new String[0];

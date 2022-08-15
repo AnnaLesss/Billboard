@@ -1,5 +1,6 @@
 package ru.netology.java;
 
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import ru.netology.java.PosterManager;
